@@ -78,13 +78,6 @@ This project demonstrates the ability to:
 
 ---
 
-## Files in the Repository
-- `insurance.csv` → Dataset  
-- `PyTorch_LinearRegression.ipynb` → Notebook with full PyTorch implementation  
-- `plots/` → Optional folder for saving visualizations  
-
----
-
 ## Future Improvements
 - Explore **non-linear models** (e.g., polynomial regression, neural networks).  
 - Feature engineering: interaction terms like `age * smoker`.  
